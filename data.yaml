@@ -1,0 +1,4 @@
+train: data_images_1/train
+val: data_images_1/test
+nc: 1
+names: ['LP']
